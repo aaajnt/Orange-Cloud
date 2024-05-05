@@ -1,0 +1,53 @@
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\plugin store\plugin store.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\Style\Dark.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\Style\Light.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\Style\MainStyle.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\Style\Style.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\home.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\Plug-in management.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\plugin store\plugin store.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\Security center.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\vpn.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield_Content.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield_MarkupCompile.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield_MarkupCompile.lref
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\System-shield.exe.config
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\System-shield.exe
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\System-shield.pdb
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\iNKORE.UI.WPF.Modern.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\iNKORE.UI.WPF.Modern.Controls.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\Wpf.Ui.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\File transfers.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\File transfers.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\App.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\icon\Icons.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\icon\LightTheme.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\home.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\Plug-in management.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\Security center.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\vpn.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield.g.resources
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System_shield.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-s.BE833308.Up2Date
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield.exe
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\System-shield.pdb
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\Microsoft Defender.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\pages\toolbox\Microsoft Defender.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\ControlzEx.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\MahApps.Metro.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\x86\Debug\Microsoft.Xaml.Behaviors.xml

@@ -1,0 +1,90 @@
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\System-shield.exe.config
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\System-shield.exe
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\System-shield.pdb
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.dll
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.Controls.dll
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.dll
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\System.ValueTuple.dll
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.pdb
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.pdb
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.xml
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.Controls.pdb
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.Controls.xml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield.csproj.AssemblyReference.cache
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\MainWindow.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\App.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield_MarkupCompile.cache
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield_MarkupCompile.lref
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\App.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\MainWindow.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield.g.resources
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System_shield.Properties.Resources.resources
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield.csproj.GenerateResource.cache
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield.csproj.CoreCompileInputs.cache
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-s.BE833308.Up2Date
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield.exe
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield.pdb
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\Wpf.Ui.dll
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\Wpf.Ui.pdb
+D:\360Downloads\Game Store\System-shield\System-shield\bin\Debug\Wpf.Ui.xml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\icon\Icons.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\icon\LightTheme.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\Style\MainStyle.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\home.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\home.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\Style\Dark.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\Style\Light.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\Style\Style.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\toolbox.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\toolbox.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\Plug-in management.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\Plug-in management.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\plugin store\plugin store.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\plugin store\plugin store.baml
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\System-shield_Content.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\toolbox\vpn.g.cs
+D:\360Downloads\Game Store\System-shield\System-shield\obj\Debug\pages\toolbox\vpn.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\System-shield.exe.config
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\System-shield.exe
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\System-shield.pdb
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\DotRas.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\iNKORE.UI.WPF.Modern.Controls.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\bin\Debug\Wpf.Ui.xml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\Style\Dark.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\Style\Light.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\Style\MainStyle.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\Style\Style.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\home.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\Plug-in management.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\plugin store\plugin store.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox\File transfers.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox\Security center.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox\vpn.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield_Content.g.cs
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield_MarkupCompile.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield_MarkupCompile.lref
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\App.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\icon\Icons.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\icon\LightTheme.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\home.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\Plug-in management.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\plugin store\plugin store.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox\File transfers.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox\Security center.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\pages\toolbox\vpn.baml
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield.g.resources
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System_shield.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-s.BE833308.Up2Date
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield.exe
+C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\Debug\System-shield.pdb

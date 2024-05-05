@@ -1,0 +1,45 @@
+﻿<Page x:Class="System_shield.pages.toolbox.vpn"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:System_shield.pages.toolbox"
+      mc:Ignorable="d" d:DesignWidth="800"
+      Title="vpn" Height="350">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- 上部分：输入服务器信息 -->
+        <StackPanel Grid.Row="0" Margin="10">
+            <TextBlock Text="Add VPN Server (VLESS Protocol)" FontWeight="Bold"/>
+            <TextBox x:Name="txtAddress"  Margin="0,5,0,5"/>
+            <TextBox x:Name="txtPort"  Margin="0,0,0,5"/>
+
+            <Button Content="Add Server" Click="AddServer_Click"/>
+        </StackPanel>
+        <TextBox x:Name="txtPor" Margin="450,19,20,18" Grid.Row="1"/>
+        <TextBox x:Name="txtPr" Margin="275,6,20,10" Grid.Row="2"/>
+
+        <!-- 中部分：显示服务器信息 -->
+        <ListView Grid.Row="1" Margin="10,10,380,10" x:Name="lvServers">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Address" DisplayMemberBinding="{Binding Address}" Width="120"/>
+                    <GridViewColumn Header="Port" DisplayMemberBinding="{Binding Port}" Width="50"/>
+                    <GridViewColumn Header="Latency" DisplayMemberBinding="{Binding Latency}" Width="70"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <!-- 下部分：控制按钮 -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,10" Width="660">
+            <Button Content="Start Proxy" Click="StartProxy_Click"/>
+            <Button Content="Stop Proxy" />
+        </StackPanel>
+    </Grid>
+</Page>

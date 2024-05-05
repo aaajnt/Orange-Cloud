@@ -1,0 +1,434 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "iNKORE.UI.WPF.Modern.Controls/1.0.0": {
+        "dependencies": {
+          "iNKORE.UI.WPF": "1.2.4",
+          "iNKORE.UI.WPF.Modern": "1.0.0",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.18362.31"
+        },
+        "runtime": {
+          "iNKORE.UI.WPF.Modern.Controls.dll": {}
+        },
+        "resources": {
+          "af-ZA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "af-ZA"
+          },
+          "am-ET/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "am-ET"
+          },
+          "ar-SA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ar-SA"
+          },
+          "as-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "as-IN"
+          },
+          "az-Latn-AZ/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "az-Latn-AZ"
+          },
+          "bg-BG/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "bg-BG"
+          },
+          "bn-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "bn-IN"
+          },
+          "bs-Latn-BA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "bs-Latn-BA"
+          },
+          "ca-Es-VALENCIA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ca-Es-VALENCIA"
+          },
+          "ca-ES/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ca-ES"
+          },
+          "cs-CZ/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "cy-GB/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "cy-GB"
+          },
+          "da-DK/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "da-DK"
+          },
+          "de-DE/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "de-DE"
+          },
+          "el-GR/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "el-GR"
+          },
+          "en-GB/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "en-GB"
+          },
+          "es-ES/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "es-ES"
+          },
+          "es-MX/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "es-MX"
+          },
+          "et-EE/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "et-EE"
+          },
+          "eu-ES/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "eu-ES"
+          },
+          "fa-IR/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "fi-FI/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "fi-FI"
+          },
+          "fil-PH/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "fil-PH"
+          },
+          "fr-CA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fr-FR/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "ga-IE/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ga-IE"
+          },
+          "gd-gb/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "gd-gb"
+          },
+          "gl-ES/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "gl-ES"
+          },
+          "gu-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "gu-IN"
+          },
+          "he-IL/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "he-IL"
+          },
+          "hi-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "hi-IN"
+          },
+          "hr-HR/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "hr-HR"
+          },
+          "hu-HU/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "hu-HU"
+          },
+          "hy-AM/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "hy-AM"
+          },
+          "id-ID/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "id-ID"
+          },
+          "is-IS/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "is-IS"
+          },
+          "it-IT/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ja-JP/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "ka-GE/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ka-GE"
+          },
+          "kk-KZ/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "kk-KZ"
+          },
+          "km-KH/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "km-KH"
+          },
+          "kn-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "kn-IN"
+          },
+          "ko-KR/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "kok-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "kok-IN"
+          },
+          "lb-LU/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "lb-LU"
+          },
+          "lo-LA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "lo-LA"
+          },
+          "lt-LT/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "lt-LT"
+          },
+          "lv-LV/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "lv-LV"
+          },
+          "mi-NZ/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "mi-NZ"
+          },
+          "mk-MK/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "mk-MK"
+          },
+          "ml-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ml-IN"
+          },
+          "mr-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "mr-IN"
+          },
+          "ms-MY/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ms-MY"
+          },
+          "mt-MT/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "mt-MT"
+          },
+          "nb-NO/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "nb-NO"
+          },
+          "ne-NP/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ne-NP"
+          },
+          "nl-NL/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "nl-NL"
+          },
+          "nn-NO/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "nn-NO"
+          },
+          "or-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "or-IN"
+          },
+          "pa-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "pa-IN"
+          },
+          "pl-PL/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "pt-BR/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "quz-PE/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "quz-PE"
+          },
+          "ro-RO/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ro-RO"
+          },
+          "ru-RU/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "sk-SK/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sk-SK"
+          },
+          "sl-SI/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sl-SI"
+          },
+          "sq-AL/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sq-AL"
+          },
+          "sr-Cyrl-BA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sr-Cyrl-BA"
+          },
+          "sr-Cyrl-RS/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sr-Cyrl-RS"
+          },
+          "sr-Latn-RS/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sr-Latn-RS"
+          },
+          "sv-SE/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sv-SE"
+          },
+          "ta-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ta-IN"
+          },
+          "te-IN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "te-IN"
+          },
+          "th-TH/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "th-TH"
+          },
+          "tr-TR/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "tt-RU/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "tt-RU"
+          },
+          "ug-CN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ug-CN"
+          },
+          "uk-UA/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "uk-UA"
+          },
+          "ur-PK/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ur-PK"
+          },
+          "uz-Latn-UZ/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "uz-Latn-UZ"
+          },
+          "vi-VN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "vi-VN"
+          },
+          "zh-CN/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "zh-TW/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "be-BY/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "be-BY"
+          },
+          "bn-BD/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "bn-BD"
+          },
+          "ha-Latn-NG/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ha-Latn-NG"
+          },
+          "sw-KE/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "sw-KE"
+          },
+          "cs/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "cs"
+          },
+          "de/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "de"
+          },
+          "es/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "es"
+          },
+          "fa/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "fa"
+          },
+          "fr/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "fr"
+          },
+          "it/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "it"
+          },
+          "ja/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ja"
+          },
+          "ko/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ko"
+          },
+          "pl/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "pl"
+          },
+          "ru/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "tr"
+          },
+          "zh-Hans/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "zh-Hant/iNKORE.UI.WPF.Modern.Controls.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.31": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.18362.24",
+            "fileVersion": "10.0.18362.31"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.4.44211"
+          }
+        }
+      },
+      "iNKORE.UI.WPF/1.2.4": {
+        "runtime": {
+          "lib/net6.0-windows7.0/iNKORE.UI.WPF.dll": {
+            "assemblyVersion": "1.2.4.0",
+            "fileVersion": "1.2.4.0"
+          }
+        }
+      },
+      "iNKORE.UI.WPF.Modern/1.0.0": {
+        "dependencies": {
+          "iNKORE.UI.WPF": "1.2.4"
+        },
+        "runtime": {
+          "iNKORE.UI.WPF.Modern.dll": {}
+        },
+        "resources": {
+          "cs-CZ/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "cs-CZ"
+          },
+          "de-DE/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "de-DE"
+          },
+          "es-ES/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "es-ES"
+          },
+          "es-MX/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "es-MX"
+          },
+          "fa-IR/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "fa-IR"
+          },
+          "fr-CA/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "fr-CA"
+          },
+          "fr-FR/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "it-IT/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "it-IT"
+          },
+          "ja-JP/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "ko-KR/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "pl-PL/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "pl-PL"
+          },
+          "pt-BR/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "ru-RU/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "tr-TR/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "tr-TR"
+          },
+          "zh-CN/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "zh-TW/iNKORE.UI.WPF.Modern.resources.dll": {
+            "locale": "zh-TW"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iNKORE.UI.WPF.Modern.Controls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.18362.31": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "iNKORE.UI.WPF/1.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hvf3mrAGzN1TE1hcchebJVeg5NoV9eeb55X+tWTxCq/tp2IsAlI3tVoymFxPaC1INN4Sp2IO2utM6I/SVxhAEQ==",
+      "path": "inkore.ui.wpf/1.2.4",
+      "hashPath": "inkore.ui.wpf.1.2.4.nupkg.sha512"
+    },
+    "iNKORE.UI.WPF.Modern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

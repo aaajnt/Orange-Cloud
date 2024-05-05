@@ -1,0 +1,60 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:System_shield.pages"
+      xmlns:ui="http://schemas.inkore.net/lib/ui/wpf/modern"
+      xmlns:ikw="http://schemas.inkore.net/lib/ui/wpf" x:Class="System_shield.pages.home"
+      mc:Ignorable="d"
+      Title="home" Height="410" Width="655">
+
+    <ScrollViewer Padding="24" VerticalScrollBarVisibility="Auto" Height="410" VerticalAlignment="Center">
+
+        <StackPanel Height="707" Width="600">
+            <Label Content="首页" Height="50" Width="751" FontSize="22" Foreground="#FF184CF1"/>
+            <Border BorderThickness="1" CornerRadius="8,8,8,8" Height="721" Background="{DynamicResource PrimaryBackgroundColor}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="125*"/>
+                        <RowDefinition Height="125*"/>
+                        <RowDefinition Height="115*"/>
+                        <RowDefinition Height="106*"/>
+                        <RowDefinition Height="97*"/>
+                        <RowDefinition Height="152*"/>
+                    </Grid.RowDefinitions>
+                    <Image HorizontalAlignment="Left" Height="100" Margin="20,10,0,0" VerticalAlignment="Top" Width="100" Source="/picture/OIP.jpg"/>
+                    <Label Content="病毒和威胁防护" FontSize="22" Foreground="Black" Margin="135,35,293,63"/>
+                    <Label Content="已启用360api插件" FontSize="18" Foreground="Gray" Margin="135,62,293,35"/>
+                    <Button Content="安全返回&gt;" Height="54" Width="175" Margin="400,0,0,0" Foreground="#E4000000" Click="Button_Click_1"/>
+                    <Image HorizontalAlignment="Left" Height="92" Margin="20,10,0,0" Grid.Row="1" VerticalAlignment="Top" Width="100" Source="/picture/R.png"/>
+                    <Label Content="VPN网络加速" FontSize="22" Foreground="Black" Margin="135,23,293,75" Grid.Row="1"/>
+                    <Label Content="已启用v2ray插件" FontSize="18" Foreground="Gray" Margin="135,62,293,35" Grid.Row="1"/>
+                    <Button Content="网络加速&gt;" Height="54" Width="175" Margin="400,0,0,0" Foreground="#E4000000" Grid.Row="1" Click="Button_Click"/>
+                    <Image HorizontalAlignment="Left" Height="90" Margin="20,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="100" Source="/picture/R (1).png"/>
+                    <Label Content="系统设置" FontSize="22" Foreground="Black" Margin="135,35,293,53" Grid.Row="2"/>
+                    <Label Content="无启用插件" FontSize="18" Foreground="Gray" Margin="135,67,293,20" Grid.Row="2"/>
+                    <Button Content="系统设置&gt;" Height="54" Width="175" Margin="400,35,0,0" Foreground="#E4000000" Grid.Row="2" VerticalAlignment="Top" Click="Button_Click_3"/>
+                    <Image HorizontalAlignment="Left" Height="76" Margin="28,0,0,0" Grid.Row="3" VerticalAlignment="Center" Width="74" Source="/picture/OIP (1).jpg"/>
+                    <Label Content="电脑测试" FontSize="22" Foreground="Black" Margin="136,25,293,54" Grid.Row="3"/>
+                    <Label Content="已启用cpu-z插件" FontSize="18" Foreground="Gray" Margin="135,53,293,25" Grid.Row="3"/>
+                    <Button Content="电脑测试&gt;" Height="54" Width="175" Margin="400,0,0,0" Foreground="#E4000000" Grid.Row="3"/>
+                    <Image HorizontalAlignment="Left" Height="76" Margin="28,0,0,0" Grid.Row="4" VerticalAlignment="Center" Width="74" Source="/picture/OIP-C.jpg"/>
+                    <Label Content="文件传输" FontSize="22" Foreground="Black" Margin="135,22,294,48" Grid.Row="4"/>
+                    <Label Content="已启用jidrop插件" FontSize="18" Foreground="Gray" Margin="135,54,293,15" Grid.Row="4"/>
+                    <Button Content="文件传输&gt;" Height="54" Width="175" Margin="405,22,5,21" Foreground="#E4000000" Grid.Row="4" Click="Button_Click_2"/>
+
+                </Grid>
+            </Border>
+            <Grid Height="745">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="26*"/>
+                    <RowDefinition Height="123*"/>
+                </Grid.RowDefinitions>
+
+            </Grid>
+
+
+        </StackPanel>
+    </ScrollViewer>
+</Page>

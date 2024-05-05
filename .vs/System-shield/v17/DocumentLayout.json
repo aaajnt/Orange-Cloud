@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|c:\\users\\administrator\\desktop\\bing\\blog\\system-shield\\system-shield\\pages\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox\\security center.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox\\security center.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox\\microsoft defender.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox\\microsoft defender.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox\\vpn.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox\\vpn.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\plug-in management.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\plug-in management.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox\\file transfers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox\\file transfers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\plugin store\\plugin store.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\plugin store\\plugin store.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\go language program\\xray.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\go language program\\xray.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\go language program\\sh.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\go language program\\sh.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\icon\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\icon\\icons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\icon\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\icon\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\plugin store\\plugin store.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\plugin store\\plugin store.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox\\file transfers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox\\file transfers.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox\\vpn.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox\\vpn.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\v2rayn.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\v2rayn.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\v2rayn.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       .  \u009F    \u0022     ",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\v2rayn.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       .  \u009F    \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\v2rayn.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\v2rayn.exe||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|System-shield||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\Downloads\\sh.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\pages\\toolbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\pages\\toolbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\picture\\oip.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\picture\\oip.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\style\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\style\\style.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\style\\mainstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\style\\mainstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\style\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\style\\dark.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\style\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\style\\light.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\system-shield\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E940E77A-ACC2-45F7-B143-25D13AE61BBF}|System-shield\\System-shield.csproj|solutionrelative:system-shield\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Security center.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\Security center.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox\\Security center.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\Security center.xaml",
+              "RelativeToolTip": "System-shield\\pages\\toolbox\\Security center.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T17:54:52.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\home.xaml.cs",
+              "RelativeDocumentMoniker": "System-shield\\pages\\home.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\home.xaml.cs",
+              "RelativeToolTip": "System-shield\\pages\\home.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwC4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:26:44.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "System-shield\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\MainWindow.xaml",
+              "RelativeToolTip": "System-shield\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T07:58:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\home.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\home.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\home.xaml",
+              "RelativeToolTip": "System-shield\\pages\\home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T08:56:35.396Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "vpn.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\vpn.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox\\vpn.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\vpn.xaml",
+              "RelativeToolTip": "System-shield\\pages\\toolbox\\vpn.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T16:13:29.915Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft Defender.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\Microsoft Defender.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox\\Microsoft Defender.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\Microsoft Defender.xaml",
+              "RelativeToolTip": "System-shield\\pages\\toolbox\\Microsoft Defender.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T09:24:23.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Plug-in management.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\Plug-in management.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\Plug-in management.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\Plug-in management.xaml",
+              "RelativeToolTip": "System-shield\\pages\\Plug-in management.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T12:28:08.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "toolbox.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox.xaml",
+              "RelativeToolTip": "System-shield\\pages\\toolbox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T11:56:29.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "File transfers.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\File transfers.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox\\File transfers.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\File transfers.xaml",
+              "RelativeToolTip": "System-shield\\pages\\toolbox\\File transfers.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-04T17:15:45.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "plugin store.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\plugin store\\plugin store.xaml",
+              "RelativeDocumentMoniker": "System-shield\\pages\\plugin store\\plugin store.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\plugin store\\plugin store.xaml",
+              "RelativeToolTip": "System-shield\\pages\\plugin store\\plugin store.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T13:03:34.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "vpn.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\vpn.xaml.cs",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox\\vpn.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\vpn.xaml.cs",
+              "RelativeToolTip": "System-shield\\pages\\toolbox\\vpn.xaml.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAAAC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:23:45.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "xray.exe",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\GO language program\\xray.exe",
+              "RelativeDocumentMoniker": "System-shield\\GO language program\\xray.exe",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\GO language program\\xray.exe",
+              "RelativeToolTip": "System-shield\\GO language program\\xray.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-05-04T04:39:56.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sh.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\GO language program\\sh.json",
+              "RelativeDocumentMoniker": "System-shield\\GO language program\\sh.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\GO language program\\sh.json",
+              "RelativeToolTip": "System-shield\\GO language program\\sh.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T06:51:09.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Icons.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\icon\\Icons.xaml",
+              "RelativeDocumentMoniker": "System-shield\\icon\\Icons.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\icon\\Icons.xaml",
+              "RelativeToolTip": "System-shield\\icon\\Icons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T09:23:21.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "System-shield\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\MainWindow.xaml.cs",
+              "RelativeToolTip": "System-shield\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:58:27.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "System-shield",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\System-shield.csproj",
+              "RelativeDocumentMoniker": "System-shield\\System-shield.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\System-shield.csproj",
+              "RelativeToolTip": "System-shield\\System-shield.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-04T08:24:45.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "sh.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\sh.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Downloads\\sh.json",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\sh.json",
+              "RelativeToolTip": "..\\..\\..\\..\\Downloads\\sh.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T06:50:50.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "toolbox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox.xaml.cs",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox.xaml.cs",
+              "RelativeToolTip": "System-shield\\pages\\toolbox.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:51:06.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\icon\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "System-shield\\icon\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\icon\\LightTheme.xaml",
+              "RelativeToolTip": "System-shield\\icon\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-05T09:23:20.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "plugin store.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\plugin store\\plugin store.xaml.cs",
+              "RelativeDocumentMoniker": "System-shield\\pages\\plugin store\\plugin store.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\plugin store\\plugin store.xaml.cs",
+              "RelativeToolTip": "System-shield\\pages\\plugin store\\plugin store.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:13:54.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "File transfers.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\File transfers.xaml.cs",
+              "RelativeDocumentMoniker": "System-shield\\pages\\toolbox\\File transfers.xaml.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\pages\\toolbox\\File transfers.xaml.cs*",
+              "RelativeToolTip": "System-shield\\pages\\toolbox\\File transfers.xaml.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T17:15:44.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "v2rayN.exe",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\v2rayN.exe",
+              "RelativeDocumentMoniker": "System-shield\\v2rayN.exe",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\v2rayN.exe",
+              "RelativeToolTip": "System-shield\\v2rayN.exe",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-05-04T10:07:43.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "v2rayN.exe - 32512 [\u975E\u7279\u5B9A\u8BED\u8A00] - Icon [128x128, 32 \u4F4D, BMP]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\v2rayN.exe",
+              "RelativeDocumentMoniker": "System-shield\\v2rayN.exe",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\v2rayN.exe - 32512 [\u975E\u7279\u5B9A\u8BED\u8A00] - Icon [128x128, 32 \u4F4D, BMP]",
+              "RelativeToolTip": "System-shield\\v2rayN.exe - 32512 [\u975E\u7279\u5B9A\u8BED\u8A00] - Icon [128x128, 32 \u4F4D, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-05-04T10:07:45.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "v2rayN.exe - 1 [\u975E\u7279\u5B9A\u8BED\u8A00] - Version",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\v2rayN.exe",
+              "RelativeDocumentMoniker": "System-shield\\v2rayN.exe",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\v2rayN.exe - 1 [\u975E\u7279\u5B9A\u8BED\u8A00] - Version",
+              "RelativeToolTip": "System-shield\\v2rayN.exe - 1 [\u975E\u7279\u5B9A\u8BED\u8A00] - Version",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000165|",
+              "WhenOpened": "2024-05-04T10:07:51.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Light.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\Light.xaml",
+              "RelativeDocumentMoniker": "System-shield\\Style\\Light.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\Light.xaml",
+              "RelativeToolTip": "System-shield\\Style\\Light.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T11:38:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\MainStyle.xaml",
+              "RelativeDocumentMoniker": "System-shield\\Style\\MainStyle.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\MainStyle.xaml",
+              "RelativeToolTip": "System-shield\\Style\\MainStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T09:00:30.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Style.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\Style.xaml",
+              "RelativeDocumentMoniker": "System-shield\\Style\\Style.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\Style.xaml",
+              "RelativeToolTip": "System-shield\\Style\\Style.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T11:38:11.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dark.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\Dark.xaml",
+              "RelativeDocumentMoniker": "System-shield\\Style\\Dark.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\Style\\Dark.xaml",
+              "RelativeToolTip": "System-shield\\Style\\Dark.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T11:37:58.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OIP.jpg - Bitmap [258x258, 24 \u4F4D, JPG]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\picture\\OIP.jpg",
+              "RelativeDocumentMoniker": "System-shield\\picture\\OIP.jpg",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\picture\\OIP.jpg - Bitmap [258x258, 24 \u4F4D, JPG]",
+              "RelativeToolTip": "System-shield\\picture\\OIP.jpg - Bitmap [258x258, 24 \u4F4D, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-05-03T13:06:36.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\App.xaml",
+              "RelativeDocumentMoniker": "System-shield\\App.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\App.xaml",
+              "RelativeToolTip": "System-shield\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T08:00:59.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\App.config",
+              "RelativeDocumentMoniker": "System-shield\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bing\\blog\\System-shield\\System-shield\\App.config",
+              "RelativeToolTip": "System-shield\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-03T08:27:51.497Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

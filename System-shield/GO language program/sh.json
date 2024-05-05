@@ -1,0 +1,49 @@
+{
+  "log": {
+    "access": "",
+    "error": "",
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "port": 80,
+      "protocol": "vless",
+      "settings": {
+        "udp": false,
+        "clients": [
+          {
+            "id": "e28bb3f8-e64a-4419-9496-33c46220354b",
+            "alterId": 0,
+            "email": "t@t.tt",
+            "flow": ""
+          }
+        ],
+        "decryption": "none",
+        "allowTransparent": false
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": "/freecodes",
+          "headers": {
+            "Host": "sdgf.bdfstt.sbs"
+          }
+        }
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom"
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {}
+    }
+  ],
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": []
+  }
+}

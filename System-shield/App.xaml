@@ -1,0 +1,22 @@
+﻿<Application x:Class="System_shield.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:System_shield"
+             xmlns:ui="http://schemas.inkore.net/lib/ui/wpf/modern"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ui:ThemeResources/>
+                <ui:XamlControlsResources/>
+                <ResourceDictionary Source="style/MainStyle.xaml"/>
+                <ResourceDictionary Source="icon/Icons.xaml"/>
+                <ResourceDictionary Source="icon/LightTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            
+
+            <!--Your other resources here (if exists)-->
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
