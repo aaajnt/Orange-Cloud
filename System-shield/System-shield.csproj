@@ -339,7 +339,7 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="pages\toolbox\Security center.xaml">
+    <Page Include="pages\toolbox\System settings.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -383,8 +383,8 @@
     <Compile Include="pages\toolbox\Microsoft Defender.xaml.cs">
       <DependentUpon>Microsoft Defender.xaml</DependentUpon>
     </Compile>
-    <Compile Include="pages\toolbox\Security center.xaml.cs">
-      <DependentUpon>Security center.xaml</DependentUpon>
+    <Compile Include="pages\toolbox\System settings.xaml.cs">
+      <DependentUpon>System settings.xaml</DependentUpon>
     </Compile>
     <Compile Include="pages\toolbox\vpn.xaml.cs">
       <DependentUpon>vpn.xaml</DependentUpon>

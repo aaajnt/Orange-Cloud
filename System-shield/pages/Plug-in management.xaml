@@ -9,9 +9,9 @@
       Title="Plug_in_management" Width="635" Height="400">
 
     <Grid>
-        <Button Content="打开插件文件夹" Click="OpenPluginFolder_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="145,20,0,0" Height="30" Width="115"/>
+        <Button Content="打开插件文件夹" Click="OpenPluginFolder_Click" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="150,20,0,0" Height="30" Width="115"/>
         <Border BorderThickness="1" Margin="30,55,30,10" Background="White" CornerRadius="8,8,8,8">
-            <ListView x:Name="PluginListView" Margin="10,14,10,10">
+            <ListView x:Name="PluginListView" Margin="10,24,14,10">
                 <ListView.Resources>
                     <ContextMenu x:Key="PluginContextMenu">
                         <MenuItem Header="启动" Click="OpenPlugin_Click"/>
@@ -34,6 +34,7 @@
             </ListView>
         </Border>
         <Label Content="插件管理" HorizontalAlignment="Left" Height="35" Margin="35,15,0,0" VerticalAlignment="Top" Width="100" Foreground="#FF0E2AB7" FontSize="22"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="30" Margin="280,20,0,0" VerticalAlignment="Top" Width="125"  Click="OnLoadHpmFileClick" />
 
 
     </Grid>

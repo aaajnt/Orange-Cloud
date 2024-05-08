@@ -44,16 +44,18 @@ namespace System_shield.pages
         {
             PluginListView.Items.Clear(); // 清除现有的插件项
 
-            // 获取插件目录中的所有可执行文件 (.exe 和 .jar)
+            // 获取插件目录中的所有可执行文件 (.exe, .jar, .hpm)
             var pluginFiles = Directory.EnumerateFiles(pluginDirectory)
-                                       .Where(file => file.ToLower().EndsWith(".exe") || file.ToLower().EndsWith(".jar"));
+                                       .Where(file => file.ToLower().EndsWith(".exe") ||
+                                                      file.ToLower().EndsWith(".jar") ||
+                                                      file.ToLower().EndsWith(".hpm"))
+                                       .ToArray();
 
             foreach (var filePath in pluginFiles)
             {
                 FileInfo fileInfo = new FileInfo(filePath);
                 PluginListView.Items.Add(new PluginData
                 {
-                    // 使用 Path.GetFileNameWithoutExtension 来获取没有扩展名的文件名
                     Name = Path.GetFileNameWithoutExtension(fileInfo.Name), // 不带扩展名的文件名
                     Path = fileInfo.FullName // 完整文件路径
                 });
@@ -184,6 +186,82 @@ namespace System_shield.pages
                     return result;
                 }
             }
+        }
+        private void OnLoadHpmFileClick(object sender, RoutedEventArgs e)
+        {
+            // 创建 OpenFileDialog 以选择 .hpm 文件
+            Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog
+            {
+                DefaultExt = ".hpm",
+                Filter = "HPM Files (*.hpm)|*.hpm"
+            };
+
+            // 显示 OpenFileDialog 以选择文件
+            bool? result = dlg.ShowDialog();
+
+            // 如果选择了文件
+            if (result == true)
+            {
+                // 获取选择的文件路径
+                string filename = dlg.FileName;
+
+                // 执行终端命令（此处替换为你的终端命令逻辑）
+                string convertedExePath = ExecuteTerminalCommandToConvertHpm(filename);
+
+                // 如果转换成功，将转换得到的 exe 文件移动到 plugin 文件夹
+                if (!string.IsNullOrEmpty(convertedExePath))
+                {
+                    string destinationPath = Path.Combine(pluginDirectory, Path.GetFileName(convertedExePath));
+                    File.Move(convertedExePath, destinationPath);
+
+                    // 刷新插件 ListBox 来显示新的插件
+                    RefreshPlugins();
+                }
+            }
+        }
+        private string ExecuteTerminalCommandToConvertHpm(string hpmFilePath)
+        {
+            string outputExePath = ""; // 这是转换后 .exe 文件的完整路径
+
+            // 构建转换命令
+            string commandToExecute = ""; // 这里应填写真正的转换命令
+            ProcessStartInfo startInfo = new ProcessStartInfo
+            {
+                FileName = "cmd.exe",
+                Arguments = $"/c {commandToExecute}",
+                UseShellExecute = false,
+                CreateNoWindow = true,
+                RedirectStandardOutput = true,
+                RedirectStandardError = true
+            };
+
+            try
+            {
+                using (Process process = Process.Start(startInfo))
+                {
+                    process.WaitForExit();
+
+                    if (process.ExitCode == 0)
+                    {
+                        // 标准输出流读取转换后的exe路径
+                        outputExePath = process.StandardOutput.ReadLine();
+                    }
+                    else
+                    {
+                        // 读取错误流内容以获取错误信息
+                        string standardError = process.StandardError.ReadToEnd();
+                        MessageBox.Show($"Conversion error: {standardError}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // 异常处理
+                MessageBox.Show($"Execution error: {ex.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Debug.WriteLine($"Execution error: {ex.Message}");
+            }
+
+            return outputExePath;
         }
     }
 }

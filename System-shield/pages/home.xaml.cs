@@ -58,7 +58,7 @@ namespace System_shield.pages
             var mainWindow = Window.GetWindow(this) as MainWindow;
             if (mainWindow != null)
             {
-                mainWindow.PagesNavigation.Navigate(new Uri("pages/toolbox/Security center.xaml", UriKind.Relative));
+                mainWindow.PagesNavigation.Navigate(new Uri("pages/toolbox/System settings.xaml", UriKind.Relative));
             }
         }
     }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\obj\x86\Debug\
+C:\Users\Administrator\Desktop\bing\blog\Orange-Cloud\System-shield\obj\x86\Debug\
 System_shield
 none
 false
 DEBUG;TRACE
-C:\Users\Administrator\Desktop\bing\blog\System-shield\System-shield\App.xaml
-15-1691625966
-31513723840
-14-1694391209
-140486652229
-icon\Icons.xaml;icon\LightTheme.xaml;MainWindow.xaml;pages\home.xaml;pages\Plug-in management.xaml;pages\plugin store\plugin store.xaml;pages\toolbox.xaml;pages\toolbox\File transfers.xaml;pages\toolbox\Microsoft Defender.xaml;pages\toolbox\Security center.xaml;pages\toolbox\vpn.xaml;Style\Dark.xaml;Style\Light.xaml;Style\MainStyle.xaml;Style\Style.xaml;
+C:\Users\Administrator\Desktop\bing\blog\Orange-Cloud\System-shield\App.xaml
+15-1406737997
+3-573132717
+142046267414
+140-757385836
+icon\Icons.xaml;icon\LightTheme.xaml;MainWindow.xaml;pages\home.xaml;pages\Plug-in management.xaml;pages\plugin store\plugin store.xaml;pages\toolbox.xaml;pages\toolbox\File transfers.xaml;pages\toolbox\Microsoft Defender.xaml;pages\toolbox\System settings.xaml;pages\toolbox\vpn.xaml;Style\Dark.xaml;Style\Light.xaml;Style\MainStyle.xaml;Style\Style.xaml;
 
 True
 
